@@ -42,7 +42,7 @@ int main(){
 		if(year>0&&year<=20){
 			testthree=true;
 		}else{
-			printf("Wrong input, Type again");
+			printf("Wrong input, Type again");  //git test
 			printf("Type year: ");
 			scanf("\n%d", &year);
 		}
